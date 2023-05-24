@@ -235,7 +235,7 @@
     "commonmark": "0.30.0",
     "commonmark-spec": "0.30.0",
     "cross-env": "7.0.3",
-    "css-loader": "6.7.3",
+    "css-loader": "6.7.4",
     "dotenv": "16.0.3",
     "eslint": "8.39.0",
     "eslint-import-resolver-typescript": "3.5.5",
